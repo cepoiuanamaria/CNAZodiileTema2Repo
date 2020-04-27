@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServer";
+
+service ZodiacService{
+	rpc ZodiacSignInfo (DOBRequest) returns (OperationResponse);
+}
+
+message DOBRequest{
+	string data=1;
+}
+
+message OperationResponse{
+	string message=1;
+}
