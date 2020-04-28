@@ -635,11 +635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNATema2\\GrpcServer\\GrpcServer\\GrpcServer.csproj",
+      "projectUniqueName": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNAZodiileTema2Repo\\CNATema2\\GrpcServer\\GrpcServer\\GrpcServer.csproj",
       "projectName": "GrpcServer",
-      "projectPath": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNATema2\\GrpcServer\\GrpcServer\\GrpcServer.csproj",
+      "projectPath": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNAZodiileTema2Repo\\CNATema2\\GrpcServer\\GrpcServer\\GrpcServer.csproj",
       "packagesPath": "C:\\Users\\MEME\\.nuget\\packages\\",
-      "outputPath": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNATema2\\GrpcServer\\GrpcServer\\obj\\",
+      "outputPath": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNAZodiileTema2Repo\\CNATema2\\GrpcServer\\GrpcServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

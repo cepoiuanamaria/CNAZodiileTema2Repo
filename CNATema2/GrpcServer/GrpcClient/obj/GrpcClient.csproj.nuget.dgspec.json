@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNATema2\\GrpcServer\\GrpcClient\\GrpcClient.csproj": {}
+    "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNAZodiileTema2Repo\\CNATema2\\GrpcServer\\GrpcClient\\GrpcClient.csproj": {}
   },
   "projects": {
-    "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNATema2\\GrpcServer\\GrpcClient\\GrpcClient.csproj": {
+    "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNAZodiileTema2Repo\\CNATema2\\GrpcServer\\GrpcClient\\GrpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNATema2\\GrpcServer\\GrpcClient\\GrpcClient.csproj",
+        "projectUniqueName": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNAZodiileTema2Repo\\CNATema2\\GrpcServer\\GrpcClient\\GrpcClient.csproj",
         "projectName": "GrpcClient",
-        "projectPath": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNATema2\\GrpcServer\\GrpcClient\\GrpcClient.csproj",
+        "projectPath": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNAZodiileTema2Repo\\CNATema2\\GrpcServer\\GrpcClient\\GrpcClient.csproj",
         "packagesPath": "C:\\Users\\MEME\\.nuget\\packages\\",
-        "outputPath": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNATema2\\GrpcServer\\GrpcClient\\obj\\",
+        "outputPath": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNAZodiileTema2Repo\\CNATema2\\GrpcServer\\GrpcClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

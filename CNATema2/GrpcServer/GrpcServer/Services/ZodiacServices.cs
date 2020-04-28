@@ -16,7 +16,7 @@ namespace GrpcServer.Services
             string dateFormat = "MM/dd/yyyy";
             DateTime dateInput = DateTime.ParseExact(dateTested, dateFormat, CultureInfo.InvariantCulture, DateTimeStyles.None);
 
-            string filePath = @"D:\UNI\Anul2\Semestrul2\CNA\CNATema2\GrpcServer\GrpcServer\Services\zodii.txt";
+            string filePath = @"D:\UNI\Anul2\Semestrul2\CNA\CNAZodiileTema2Repo\CNATema2\GrpcServer\GrpcServer\Services\zodii.txt";
 
             List<string> lines = File.ReadAllLines(filePath).ToList();
             foreach (string line in lines)

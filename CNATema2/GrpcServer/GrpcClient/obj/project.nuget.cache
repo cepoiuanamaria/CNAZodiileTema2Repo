@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pAG6MTzfF9/8wKT36VjSLgKqP4VA0GJLVk/pLQyJ3oJMRXF5SsWkks7G0xiq2uENCjH2D5v478AkcIYwy/VUqw==",
+  "dgSpecHash": "7H7ZHhTYXGcab1/tpboG4o9ryg1JpWnIb8UzqxfZXR+eFi19j0O4WNualwsM0+3w29b4vxNx9Sgrxm1BWjPB6A==",
   "success": true,
-  "projectFilePath": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNATema2\\GrpcServer\\GrpcClient\\GrpcClient.csproj",
+  "projectFilePath": "D:\\UNI\\Anul2\\Semestrul2\\CNA\\CNAZodiileTema2Repo\\CNATema2\\GrpcServer\\GrpcClient\\GrpcClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MEME\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
     "C:\\Users\\MEME\\.nuget\\packages\\grpc.core.api\\2.27.0\\grpc.core.api.2.27.0.nupkg.sha512",
